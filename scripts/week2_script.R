@@ -68,4 +68,3 @@ ggplot(ap_df, aes(x = year, y = passengers)) +
     plot.subtitle = element_text(size = 10)
   )
 
-
